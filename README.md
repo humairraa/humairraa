@@ -45,7 +45,7 @@
 ## 🔗 Connect with me
 
 <div>
-  
+  <!--
 <p align="center">
   <a href="mailto:humairraadeeb@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=30&width=500" width="90" height="30" />
@@ -55,6 +55,18 @@
   </a>
   <a href="https://www.linkedin.com/in/humairaadeeb/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&logoWidth=30&width=200" width="90" height="30" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="mailto:humairraadeeb@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/humairraa" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/humairaadeeb/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
